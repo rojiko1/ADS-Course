@@ -1,4 +1,4 @@
-package Part1.Week1.Project3;
+package Part1.Week1.Percolation;
 
 import java.util.Random;
 

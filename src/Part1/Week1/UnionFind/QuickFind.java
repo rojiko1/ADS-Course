@@ -1,4 +1,4 @@
-package Part1.Week1.Project2;
+package Part1.Week1.UnionFind;
 
 // initialize - time complexity: O(n)
 // union - time complexity: O(n)

@@ -1,8 +1,6 @@
-package Part1.Week1.Project3;
+package Part1.Week1.Percolation;
 
-import Part1.Week1.Project2.QuickUnionImproved;
-import edu.princeton.cs.algs4.*;
-import java.util.ArrayList;
+import Part1.Week1.UnionFind.QuickUnionImproved;
 
 public class Percolation {
 

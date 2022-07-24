@@ -1,4 +1,4 @@
-package Part1.Week1.Project1;
+package Part1.Week1.HelloWorld;
 
 import java.util.ArrayList;
 import java.util.Random;
